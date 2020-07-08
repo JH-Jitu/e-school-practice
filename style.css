@@ -1,0 +1,159 @@
+body{
+    color: rgb(138, 128, 134);
+}
+.container{
+    margin-bottom: 80px;
+}
+.orange-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat; 
+}
+.any-schedule-clr{
+    color: rgb(48, 22, 58);
+}
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(to bottom, rgb(88, 57, 99), rgb(27, 14, 39));
+    padding: 5px 10px;
+    width: 80px;
+    border-radius: 18px;
+    color: white !important;
+    border: none;
+    text-align: center;
+}
+.link-button:hover{
+    background-image: linear-gradient(to bottom, rgb(38, 22, 44), rgb(5, 0, 10));
+}
+.illustration-section{
+   padding-left: 10px;
+   padding-right: 10px;
+}
+.get-started-button{
+    background-image: linear-gradient(to bottom, rgb(88, 57, 99), rgb(27, 14, 39));
+    border: none;
+    color: white;
+    border-radius: 20px;
+    width: 150px;
+    cursor: pointer;
+    padding: 9px;
+}
+
+
+.card-2{
+    box-shadow: 3px 8px 15px rgb(194, 173, 173);
+    border-bottom-right-radius: 15px;
+    border-top-left-radius: 15px;
+    border: 1px rgb(238, 227, 227) solid;
+    cursor: pointer;
+    padding: 20px;
+}
+.card-2 img{
+    padding: 30%;
+}
+.card-2:hover{
+    background-image: linear-gradient(to bottom, #fceae8, rgb(225, 216, 233));;
+}
+.icon-card-title{
+    text-align: center;
+}
+
+.card{
+    border: 1px rgb(238, 227, 227) solid;
+    border-radius: 15px;
+    padding: 15px;
+}
+.buy-course{
+    text-decoration: none;
+    text-align: center;
+    align-content: center;
+    background-image: linear-gradient(to bottom, rgb(88, 57, 99), rgb(27, 14, 39));
+    padding: 7px 14px;
+    border-radius: 20px;
+    color: white;
+    border: none;
+}
+.buy-course:hover{
+    background-image: linear-gradient(to bottom, rgb(50, 29, 58), rgb(11, 0, 22));
+}
+.dark-blue-bg{
+    background-color: #130325;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat; 
+    color: white;
+    padding: 60px;
+}
+ol{
+    list-style: none;
+}
+li{
+    cursor: pointer;
+}
+li:hover{
+    color: rgb(231, 210, 210);
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+
+.card-footer{
+    border: none;
+    background-color: white;
+    
+}
+.img2{
+    width: 20px;
+}
+.res2{
+    margin-left: 60px;
+}
+.library img{
+    width: 350px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    box-shadow: 5px 10px 20px rgb(216, 203, 211);
+}
+.creativity img{
+    width: 350px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    box-shadow: 5px 10px 20px rgb(216, 203, 211);
+}
+.learning{
+    background-image: url(images/learning.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat; 
+    color: white;
+}
+.sign-in{
+    background-image: url(images/notebook.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat; 
+    color: black;
+}
+
+.carousel-control-next, .carousel-control-prev {
+    width: 10%;
+}
+
+.carousel-indicators li{
+    width: 15px;
+    height: 8px;
+    background-color: rgb(130, 130, 190);
+    background-color: darkblue;
+    border: 1px #fceae8 solid;
+    border-radius: 5px;    
+}
+
+.carousel-indicators li.active{
+    width: 30px;
+    height: 8px;
+    background-color: darkblue;
+}
+
